@@ -1,0 +1,12 @@
+
+
+.table-dark {
+    color: #fff;
+    background-color: pink;
+  }
+  
+  .table-dark th,
+  .table-dark td,
+  .table-dark thead th {
+    border-color: pink;
+  }
